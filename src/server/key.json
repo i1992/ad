@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fivetran-bcp-warehouse",
+  "private_key_id": "e1231c06e5691819d36b5356a228be004fb94871",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDdMrctrYsGqKEL\nFtfyaQewIOYQR0fEKshVv11w78eacBrpP6oQgQ9iOw7KgzLwArZ3OXDBCsAmgLhs\nG64CTtqWHqD2Yw0bDL3oS68crgB+mP0tDojdpwz77itfac1YQXM7hlAw8P66JW9s\nwN6pHTOTpc0tZBYZzTfJ2+0G6tIqsRK1fDqr6O7fFCrVhqviJ7ASXSPCG1UEKahq\nF/MchrNBU3uMVs4kOo0LLuyEG621yFmv2im9tXk4ZN+5bxeRI/T2jK3C0Kl60UVS\nfkB6KrQLe/UHrolZUhn+lUbeKPWn/Sj4arMtBGSaGdmIwXrBpzIO9pRaPpwVnnMe\nVjBX81UdAgMBAAECggEAGsRI00+1S5x7RGbCwfRAuGj6vgyKHCxbKrkp+wEhA8i+\nEOyhzTZ44Jep7gqbTtzdLKc4RDvjTaV066wbze6x18mkC7ynuNa9Yk9KROuvZqJn\nvJyOJlhRI2lKOVUJwrzEz3as3IdFI8xk4+Gg8BD3DU5aejwqynuBXT1uPNCMlxq1\nnTh4zQ6BhOKgZaNkM2qfswKU+0qOnffaTVmiw8O3454laz5hNZM6G6cNjTo0wy8G\n45Uzg9AJBFVQ2Wj/fEWC42+PoS+7juRH5o0zuBo1Z9dmtzegTYSNYXRF0nQKtd5T\nKyG+MQwvx46H4XbSkJ3+NQuN/OlvolaClamZf5dFNwKBgQD/0o6N9oPOudgxoBNm\n+0sW+buUDCYBIr+1vvinDe5b48tHKgcrIxeKevk4XiwgxDaLGt+LDgDWJycUC98b\n2LywJ55AObOvy2S1RZvr/KLh+iiCtBaIBFcXqrZaIfHNHnO57dTaenRyN5cLjbRh\nuOZzVmf31xV3h1yGMQyHiYpcPwKBgQDdWgIXYNvZvs3CSo1nxVgZaBixTXs++mZf\nSRrOcN+Yam1MNeZSxdsVUnffO8gB4hDLvNvJ9TQqlbnHZL4hrGUqVw9BRWjPcTmQ\n+clzAG4XwnBV8r3OEOO8+Q+cYcUjeNzkxP3X9jncR+8jyEBXkDdErvo7uHVKddEL\nFl/xn/MnowKBgQCaYvjTJeVv2epmMIPlD1zGtdoFQ7ufzdfCmEi5kIe7/uJLxUpk\nNx5a3VIQOY0KDUAZfRNReRb6JtDHoU55ILjm2lH/0pLlUasqVqL9rQ6jr/PIxWQf\nm/bven/oLzodHvaaS7S8UVB7KZ9HQrKMkyjIjGncQXpcE128QlecaF4OwwKBgQCV\nWnImzBgLqA61lhArgKCdI/vlRl5udA43JOCNguObt9PfpE6wcwgMLwTq/y9I9fxX\nPCsg7e4w/a3IuFUB64ynMO7+H5NExSUOiTw/+H5QUcXyeENRk1vW2kaKQf3+nUKO\nqcyNt3n7BB57ila/vnNMSLRXL3MUtsJCNOqv4jjy+QKBgQCM5q/oQp0hdIcnXGFx\nsjAvnpZugy2M496AGiwx/ZQNhIuBMWiY64hXq7k8F2VZNYmEJfziIeJBJrLcw1Cx\nQs6QHSKbLBppzsxyThq9Q8ca2V9/JC8mOegyqRw9AI/+ZScWmnKPF7imQVllZ668\nxqCe30HugTDovggtWMwOvwFSAQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "order-status@fivetran-bcp-warehouse.iam.gserviceaccount.com",
+  "client_id": "104959729772751956647",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/order-status%40fivetran-bcp-warehouse.iam.gserviceaccount.com"
+}
